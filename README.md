@@ -38,6 +38,6 @@
 
 ###
 
-<p align="left">I compiled a report summarising the business" performance over the past two years. The key takeaways and recommendations from the overall analysis include:<br><br>-  Some products suffer the most return, discount rates and under-pricing which can be resolved by improving the product info, size guides and improving pricing strategy.<br>- TikTok and Instagram must be prioritized since they deliver the highest ROI.<br>- Less investment should be implemented on Marketplace and Social Commerce, they have the lowest order quantity and high return rates.<br><br>I further suggested a 20% budget reduction on platforms depending on months they under performs.</p>
+<p align="left">I compiled a report summarising the business performance over the past two years. The key takeaways and recommendations from the overall analysis include:<br><br>-  Some products suffer the most return, discount rates and under-pricing which can be resolved by improving the product info, size guides and improving pricing strategy.<br>- TikTok and Instagram must be prioritized since they deliver the highest ROI.<br>- Less investment should be implemented on Marketplace and Social Commerce, they have the lowest order quantity and high return rates.<br><br>I further suggested a 20% budget reduction on platforms depending on months they under performs.</p>
 
 ###
